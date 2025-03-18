@@ -10,8 +10,8 @@ Yüksek kaliteli IPTV hizmetimizle, kesintisiz ve düşük gecikmeli yayın dene
 - M3U Desteği Xtream Codes altyapısıyla sorunsuz entegrasyon
 
 ## Fiyatlandırma
-- 6 Ay 550 TL
-- 12 Ay 750 TL
+- 6 Ay 1000 TL
+- 12 Ay 1500 TL
 
 ## Kurulum
 1. IPTV oynatıcınızı açın
@@ -20,6 +20,5 @@ Yüksek kaliteli IPTV hizmetimizle, kesintisiz ve düşük gecikmeli yayın dene
 
 ## Bağlantılar
 [Web Sitemiz](https://kaliteiptvtr5.com)
-İletişim info@kaliteiptvtr5.com
 
 Kalite IPTV ile kesintisiz yayın keyfi
